@@ -1,6 +1,6 @@
 # javascript-calculator
 JavaScript (React) Calculator developed for freeCodeCamp
-
+***You MUST have mathjs, react, and node installed in order to run this application. This is just the src code.***
 
 this project was developed and finalized online using codepen.io
 
